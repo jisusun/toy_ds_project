@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date: cold and a bit windy
-Jisu Sun
+project creation date: February 8th, 2025
+Author: Jisu Sun
